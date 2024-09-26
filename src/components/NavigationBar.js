@@ -16,7 +16,7 @@ const NavigationBar = () => {
   return (
     <div className={navigation.navBar}>
       <div>
-        <h1 className={navigation.logo}>LOGO</h1>
+        <h1 className={navigation.logo}>SM</h1>
       </div>
       <ul className={navigation.ul}>
         {routes.map((route) => (
