@@ -7,7 +7,7 @@ const HomePage = () => {
     <div className={home.container}>
       <h1>Welcome to My Portfolio!</h1>
       <p className={home.paragraph}>
-        Our mission is to bring your idea's into reality
+        Our mission is to bring your ideas into reality
       </p>
       <div>
         <Link to="/about">

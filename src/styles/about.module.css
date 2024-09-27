@@ -15,3 +15,6 @@ html {
   padding: 1rem;
   color: white;
 }
+.profileImage {
+  height: 50%;
+}

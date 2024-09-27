@@ -9,7 +9,7 @@ const AboutMePage = () => {
       <img
         src={headphoto}
         alt="Headshot of [Your Name]"
-        className="profile-image"
+        className={about.profileImage}
       />
       <p>
         I’m a dedicated software engineer with expertise in web and mobile app
